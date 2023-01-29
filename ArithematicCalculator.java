@@ -52,4 +52,5 @@ public class ArithematicCalculator {
 		return (num1 / num2);
 
 	}
+	
 }
