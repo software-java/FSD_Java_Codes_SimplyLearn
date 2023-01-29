@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class ArithematicCalculator {
 
 	public static void main(String[] args) {
-
+		
+		// Object created for calling all the method
 		ArithematicCalculator calc = new ArithematicCalculator();
-
+		
 		// Scanner Object are created to take input from user
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter 1st for Arithmatic Calculation number");
